@@ -1,3 +1,7 @@
 npm i express cors dotenv mongodb mongoose
 npm i ts-node typescript nodemon @types/express @types/cors @types/node --save-dev
 npx tsc --init
+
+
+//check express-validator use array rule: keyword Wildcards express-validator
+https://stackoverflow.com/questions/53537952/validate-array-of-objects-in-express-validator
